@@ -868,8 +868,7 @@ Gambar 4. Tampilan Animasi Bola 3D Partikel Kotak (Square) Cyber
 ## 7.6.5 Lampiran Tautan
 
 1. **Link Repository GitHub:**  
-   `https://github.com/gavrilasa/PPB-Modul6`  
-   *(Atau masukkan tautan URL repository fork kelompok Anda)*
+   `https://github.com/Hening24/PPB_MOD6`
 
 2. **Link Video Demo Singkat Aplikasi:**  
    `[Tempelkan Tautan / Link Google Drive atau YouTube Video Demo Aplikasi Anda di Sini]`
